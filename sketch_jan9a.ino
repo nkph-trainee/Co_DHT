@@ -21,7 +21,7 @@ char ssid[] = "OPPO";       // ชื่อ WiFi
 char pass[] = "12345678";   // รหัสผ่าน WiFi
 
 // HTTP Server Base URL
-const char* serverURL = "http://npmh.moph.go.th/api/itwork/api/iot/temporature";
+const char* serverURL = "http://npmh.moph.go.th/api/itwork/api/iot/temporature";//เว็บไซต์ทดสอบ
 
 WiFiClient client;  // สร้าง WiFiClient
 
